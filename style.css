@@ -11,9 +11,8 @@ body {
     background-color: rgba(231, 231, 233, 0.929);
 }
 
-h1 {
+h1, p {
     text-align: center;
-
 }
 
 table {
